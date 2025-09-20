@@ -1,4 +1,4 @@
-# MF0952_2-UF1307-Publicaci-de-p-gines-web
+# MF0952_2-UF1307-Publicació de pàgines web
 
 ## Llista d'Activitats
    **Codi** | **Títol**                                                                                     | **Durada** | **Dates**       | **Modalitat** |
