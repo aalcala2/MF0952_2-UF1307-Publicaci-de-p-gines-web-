@@ -22,3 +22,4 @@
 ## Notes Transversals
 - **VirtualHost/Sites**: S'implementarà de manera transversal a totes les pràctiques.
 - **Opcional**: En algunes activitats s’ofereixen alternatives (ex: Let’s Encrypt, Matomo).
+- **Teoria A1**: https://github.com/aalcala2/VirtualBox
