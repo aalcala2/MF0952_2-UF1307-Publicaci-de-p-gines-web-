@@ -23,3 +23,4 @@
 - **VirtualHost/Sites**: S'implementarà de manera transversal a totes les pràctiques.
 - **Opcional**: En algunes activitats s’ofereixen alternatives (ex: Let’s Encrypt, Matomo).
 - **Teoria A1**: https://github.com/aalcala2/VirtualBox
+- **Teoria A2**: https://bytes.cat/apache2_en_debian_ubuntu
